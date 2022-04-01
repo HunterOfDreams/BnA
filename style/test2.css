@@ -51,3 +51,7 @@ figure.slider1 figcaption {
   font-size: 2rem; padding: .6rem; 
 }
 
+figure.slider1:hover{
+  animation-play-state: paused;
+} 
+
